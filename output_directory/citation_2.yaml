@@ -1,12 +1,11 @@
-title: "A time integration algorithm for flexible mechanism dynamics: The DAE \u03B1\
-  -method"
-authors:
-- J Yen
-- L Petzold
-- S Raha
-publisher: Computer methods in applied mechanics and engineering 158 (3-4), 341-355,
-  1998
-date: No year found
-link: ''
-plugin: orcid.py
-file: orcid.yaml
+- id: doi.org/10.1016/S0045-7825(97)00261-2
+  title: "A time integration algorithm for flexible mechanism dynamics: The DAE \u03B1\ -method"
+  authors:
+  - J Yen
+  - L Petzold
+  - S Raha
+  publisher: Computer methods in applied mechanics and engineering 158 (3-4), 341-355, 1998
+  date: '1998-06-08'
+  link: https://www.sciencedirect.com/science/article/abs/pii/S0045782597002612
+  plugin: orcid.py
+  file: orcid.yaml
