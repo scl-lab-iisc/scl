@@ -1,13 +1,12 @@
--id: doi.org/10.1021/jm049050v
-  title: A combination of docking, QM/MM methods, and MD simulation for binding affinity
-  estimation of metalloprotein ligands
+- id: doi.org/10.1021/jm049050v
+  title: A combination of docking, QM/MM methods, and MD simulation for binding affinity estimation of metalloprotein ligands
   authors:
-  - A Khandelwal
-  - V Lukacova
-  - D Comez
-  - DM Kroll
-  - S Raha
-  - S Balaz
+    - A Khandelwal
+    - V Lukacova
+    - D Comez
+    - DM Kroll
+    - S Raha
+    - S Balaz
   publisher: Journal of medicinal chemistry 48 (17), 5437-5447, 2005
   date: '2005-07-26'
   link: https://pubs.acs.org/doi/abs/10.1021/jm049050v
