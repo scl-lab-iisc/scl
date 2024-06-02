@@ -19,3 +19,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include search-info.html %}
 
 {% include list.html data="posts" component="post-excerpt" %}
+
+<!-- Example image and download button -->
+<div class="image-download">
+  <img id="image-to-download" src="images/logo.png" alt="Description of Image">
+  <button id="download-btn">Download Logo</button>
+</div>
