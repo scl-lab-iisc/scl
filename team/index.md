@@ -30,9 +30,9 @@ We delve into various team-building activities to foster a strong sense of camar
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/team/Team1.jpg" %}
+{% include figure.html image="images/team/Team2.jpg" %}
+{% include figure.html image="images/team/Team3.jpg" %}
 
 {% endcapture %}
 
