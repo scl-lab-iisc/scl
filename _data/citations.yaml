@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi.org/10.1021/jm049050v
+  title: A combination of docking, QM/MM methods, and MD simulation for binding affinity
+    estimation of metalloprotein ligands
+  authors:
+  - A Khandelwal
+  - V Lukacova
+  - D Comez
+  - DM Kroll
+  - S Raha
+  - S Balaz
+  publisher: Journal of medicinal chemistry 48 (17), 5437-5447, 2005
+  date: '2005-08-25'
+  link: https://pubs.acs.org/doi/abs/10.1021/jm049050v
+  image: "images/research/citation1.gif"
+  plugin: orcid.py
+  file: orcid.yaml
+
 
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
