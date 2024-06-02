@@ -59,8 +59,7 @@
   file: orcid.yaml
 
 - id : doi.org/10.2514/1.G000561
-  title: Capturability of augmented pure proportional navigation guidance against time-varying
-  target maneuvers
+  title: Capturability of augmented pure proportional navigation guidance against time-varying target maneuvers
   authors:
   - S Ghosh
   - D Ghose
@@ -71,5 +70,20 @@
   image: "images/research/citation5.png"
   plugin: orcid.py
   file: orcid.yaml
+
+- id : doi.org/10.1109/TITS.2014.2319263
+  title: Rollover-preventive force synthesis at active suspensions in a vehicle performing
+  a severe maneuver with wheels lifted off
+  authors:
+  - NC Parida
+  - S Raha
+  - A Ramani
+  publisher: IEEE Transactions on Intelligent Transportation Systems 15 (6), 2583-2594, 2014
+  date: '2014-05-16'
+  link: https://ieeexplore.ieee.org/abstract/document/6817587/figures#figures
+  image: "images/research/citation6.gif"
+  plugin: orcid.py
+  file: orcid.yaml
+
 
 
