@@ -1,7 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 - id : doi.org/10.1021/jm049050v
-  title: A combination of docking, QM/MM methods, and MD simulation for binding affinity
-    estimation of metalloprotein ligands
+  title: A combination of docking, QM/MM methods, and MD simulation for binding affinity estimation of metalloprotein ligands
   authors:
   - A Khandelwal
   - V Lukacova
@@ -11,7 +10,7 @@
   - S Balaz
   publisher: Journal of medicinal chemistry 48 (17), 5437-5447, 2005
   date: '2005-07-26'
-  link: 'https://pubs.acs.org/doi/abs/10.1021/jm049050v'
+  link: https://pubs.acs.org/doi/abs/10.1021/jm049050v
   plugin: orcid.py
   image: "images/research/citation1.gif"
   file: orcid.yaml
@@ -28,7 +27,7 @@
   plugin: orcid.py
   file: orcid.ya
 
--id : doi.org/10.1074/jbc.M313474200
+- id : doi.org/10.1074/jbc.M313474200
   title: Similarity of Binding Sites of Human Matrix Metalloproteinases*[boxs]
   authors:
   - V Lukacova
