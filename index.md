@@ -13,7 +13,7 @@ Our lab has open research positions including Ph.D. and M.Tech. (Research). We w
 
 {% capture text %}
 
-Our research focuses on the computational Study of Stochastic Differential-Algebraic and stiff Stochastic Differential Equations.This includes partitioning, stability and Stochastic study of Dynamic Complex Networks.
+Our research focuses on the computational Study of Stochastic Differential-Algebraic and stiff Stochastic Differential Equations. This includes partitioning, stability and Stochastic study of Dynamic Complex Networks. Explore this section to check various researches being done out by us.
 
 {%
   include button.html
@@ -36,7 +36,7 @@ Our research focuses on the computational Study of Stochastic Differential-Algeb
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Welcome to the heart of our Scientific Computation Lab, where cutting-edge research meets innovative solutions. Our team of dedicated phD and M-Tech coursework students work collaboratively on a diverse array of projects that push the boundaries of computational science. Enter this section to find an overview of our current key projects, each contributing to advancements in various scientific and computation domains.
 
 {%
   include button.html
@@ -76,7 +76,7 @@ Welcome to our dynamic team, led by Professor Soumyendu Raha, where innovation a
 
 {%
   include feature.html
-  image="images/Team.png"
+  image="images/Team.jpg"
   link="team"
   title="Our Team"
   text=text
