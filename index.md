@@ -1,8 +1,10 @@
 ---
 ---
 
-# jitinbDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Scientific Computation Lab
+we, at our lab, dedicate our research to investigate the computational analysis of Stochastic Differential-Algebraic Equations (SDAEs) and stiff Stochastic Differential Equations (SDEs). We explore various aspects such as partitioning techniques, stability analysis, and stochastic characterization within Dynamic Complex Networks. This entails delving into the dynamics and behavior of complex systems under uncertainty, utilizing computational tools to understand the stochastic processes governing their evolution.
 
+Our lab has open research positions including Ph.D. and M.Tech. (Research). We welcome applications from highly motivated individuals with a passion for research. Interested candidates can apply through IISc admissions conducted twice a year. We look forward to receiving your application!
 
 
 {% include section.html %}
@@ -11,7 +13,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on the computational Study of Stochastic Differential-Algebraic and stiff Stochastic Differential Equations.This includes partitioning, stability and Stochastic study of Dynamic Complex Networks.
 
 {%
   include button.html
