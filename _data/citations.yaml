@@ -257,6 +257,6 @@
   publisher: eLife
   date: '2018-03-01'
   link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: "images/research/citation1.gif"
   plugin: sources.py
   file: sources.yaml
