@@ -7,27 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team is composed of passionate PhD students, driven M.Tech researchers, and aspiring M Tech coursework students, all united by our shared curiosity and commitment to excellence. Together, we embark on cutting-edge research projects, explore novel ideas, and tackle real-world challenges with creativity and rigor. Join us on our journey as we shape the future of Scientific computing research through collaboration, discovery, and academic excellence
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="raha@iisc.ac.in"
+  link="raha@iisc.ac.in"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="+91-80-2293-2791"
+  link="+91-80-2293-2791"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/jJjBMSmyBmPrJzqP7"
 %}
 
 {% include section.html %}
@@ -36,8 +34,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/contact/IISCMainBldg.jpg"
+  caption="IISc Main Building"
 %}
 
 {% endcapture %}
@@ -46,8 +44,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/contact/CDS_Dept.jpg"
+  caption="CDS Department Building"
 %}
 
 {% endcapture %}

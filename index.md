@@ -2,7 +2,7 @@
 ---
 
 # Scientific Computation Lab
-we, at our lab, dedicate our research to investigate the computational analysis of Stochastic Differential-Algebraic Equations (SDAEs) and stiff Stochastic Differential Equations (SDEs). We explore various aspects such as partitioning techniques, stability analysis, and stochastic characterization within Dynamic Complex Networks. This entails delving into the dynamics and behavior of complex systems under uncertainty, utilizing computational tools to understand the stochastic processes governing their evolution.
+We, at our lab, dedicate our research to investigate the computational analysis of Stochastic Differential-Algebraic Equations (SDAEs) and stiff Stochastic Differential Equations (SDEs). We explore various aspects such as partitioning techniques, stability analysis, and stochastic characterization within Dynamic Complex Networks. This entails delving into the dynamics and behavior of complex systems under uncertainty, utilizing computational tools to understand the stochastic processes governing their evolution.
 
 Our lab has open research positions including Ph.D. and M.Tech. (Research). We welcome applications from highly motivated individuals with a passion for research. Interested candidates can apply through IISc admissions conducted twice a year. We look forward to receiving your application!
 
@@ -28,7 +28,7 @@ Our research focuses on the computational Study of Stochastic Differential-Algeb
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/SDE.png"
   link="research"
   title="Our Research"
   text=text
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Projects.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Welcome to our dynamic team, led by Professor Soumyendu Raha, where innovation and collaboration thrive! With a diverse blend of expertise and enthusiasm, we're a community of scholars dedicated to pushing the boundaries of knowledge in the diverse field of scientific computation.
 
 {%
   include button.html
@@ -76,7 +76,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Team.png"
   link="team"
   title="Our Team"
   text=text
