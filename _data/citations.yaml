@@ -59,3 +59,18 @@
   plugin: orcid.py
   file: orcid.yaml
 
+- id : doi.org/10.2514/1.G000561
+  title: Capturability of augmented pure proportional navigation guidance against time-varying
+  target maneuvers
+  authors:
+  - S Ghosh
+  - D Ghose
+  - S Raha
+  publisher: Journal of Guidance, Control, and Dynamics 37 (5), 1446-1461, 2014
+  date: '2014-09-01'
+  link: https://arc.aiaa.org/doi/abs/10.2514/1.G000561
+  image: "images/research/citation5.png"
+  plugin: orcid.py
+  file: orcid.yaml
+
+

@@ -21,7 +21,7 @@ Our cutting-edge research in these areas not only advances theoretical understan
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="A combination of docking, QM/MM methods, and MD simulation for binding affinity estimation of metalloprotein ligands" style="rich" %}
 
 {% include section.html %}
 
