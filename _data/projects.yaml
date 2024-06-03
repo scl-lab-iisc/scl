@@ -1,47 +1,48 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: CHARACTERIZE DYNAMICS OF SIMPLEX NETWORK USING FLOWS
+  subtitle: Research Work
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/project/Project1.jpg
+  description: As the volume, diversity, and complexity of data have surged in recent years, uncovering, extracting and leveraging their inherent structures has emerged as a pivotal challenge in data analysis and statistical learning.
   tags:
-    - resource
+    - simplex
+    - networks
+    - flows
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: FLOW NETWORKS
+  subtitle: Research Work
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/project/Project2.jpg
+  description: Preserving maximum principles on pressure for nonlinear Darcy flow through anisotropic porous media using PINNS (physics informed neural networks).
   tags:
     - resource
+    - Flow
+    - networks
+    - Darcy
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: REACTION-DIFFUSION(RD) NETWORKS FOR LEARNING AND PREDICTING DYNAMICAL SYSTEMS
+  subtitle: Research Work
+  image: images/project/Project3.jpg
+  description: RD system considered => Chemical Brusselator model. Necessary condition for obtaining  stable component of graph kept as constraint in Dynamic optimization problem.
   tags:
-    - resource
-    - publication
+    - Reaction Diffusion
+    - Dynamical Systems
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: TRACKING AND ESTIMATION OF LOW EARTH ORBITALS
+  subtitle: M-Tech Project
+  image: images/project/Project4.jpg
+  description: Tracking unknown satellites and determining their orbits. Use of advanced technology and mathematical precision to pinpoint their trajectories amidst vast expanse of space. Decoding Enigmatic Celestial Movements and contributing to Advancements in Space Exploration.
   tags:
-    - software
+    - Satellite
+    - Orbitals
+    - Tracking
+    - Space
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: HARDWARE/SOFTWARE CO-DESIGN APPROACH TO DATA SCIENCE
+  subtitle: Research Work
+  image: images/project/Project5.jpg
+  description: Diffusion Network based on Ito Representation as a pipeline on REDEFINE(TM).
   tags:
-    - software
+    - Data Science
+    - Diffusion
+    - Network
+    - Ito
