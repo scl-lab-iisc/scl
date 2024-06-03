@@ -1,14 +1,16 @@
-title: Similarity of Binding Sites of Human Matrix Metalloproteinases*[boxs]
-authors:
-- V Lukacova
-- Y Zhang
-- M Mackov
-- P Baricic
-- S Raha
-- JA Calvo
-- S Balaz
-publisher: Journal of Biological Chemistry 279 (14), 14194-14200, 2004
-date: No year found
-link: ''
-plugin: orcid.py
-file: orcid.yaml
+- id: doi.org/10.1074/jbc.M313474200
+  title: Similarity of Binding Sites of Human Matrix Metalloproteinases*[boxs]
+  authors:
+  - V Lukacova
+  - Y Zhang
+  - M Mackov
+  - P Baricic
+  - S Raha
+  - JA Calvo
+  - S Balaz
+  publisher: Journal of Biological Chemistry 279 (14), 14194-14200, 2004
+  date: '2004-04-02'
+  link: https://www.jbc.org/article/S0021-9258(19)64091-3/fulltext
+  image: "images/research/citation3.jpg"
+  plugin: orcid.py
+  file: orcid.yaml

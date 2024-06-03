@@ -1,12 +1,14 @@
-title: Parallel implementation of AutoDock
-authors:
-- P Khodade
-- R Prabhu
-- N Chandra
-- S Raha
-- R Govindarajan
-publisher: Journal of Applied Crystallography 40 (3), 598-599, 2007
-date: No year found
-link: ''
-plugin: orcid.py
-file: orcid.yaml
+- id: doi.org/10.1107/S0021889807011053
+  title: Parallel implementation of AutoDock
+  authors:
+  - P Khodade
+  - R Prabhu
+  - N Chandra
+  - S Raha
+  - R Govindarajan
+  publisher: Journal of Applied Crystallography 40 (3), 598-599, 2007
+  date: '2007-06-01'
+  link: https://journals.iucr.org/paper?kk5006
+  image: "images/research/citation4.gif"
+  plugin: orcid.py
+  file: orcid.yaml

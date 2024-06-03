@@ -1,0 +1,74 @@
+- id: doi.org/10.1021/jm049050v
+  title: A combination of docking, QM/MM methods, and MD simulation for binding affinity
+    estimation of metalloprotein ligands
+  authors:
+  - A Khandelwal
+  - V Lukacova
+  - D Comez
+  - DM Kroll
+  - S Raha
+  - S Balaz
+  publisher: Journal of medicinal chemistry 48 (17), 5437-5447, 2005
+  date: '2005-07-26'
+  link: https://pubs.acs.org/doi/abs/10.1021/jm049050v
+  image: "images/research/citation1.gif"
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi.org/10.1016/S0045-7825(97)00261-2
+  title: "A time integration algorithm for flexible mechanism dynamics: The DAE \u03B1\ -method"
+  authors:
+  - J Yen
+  - L Petzold
+  - S Raha
+  publisher: Computer methods in applied mechanics and engineering 158 (3-4), 341-355, 1998
+  date: '1998-06-08'
+  link: https://www.sciencedirect.com/science/article/abs/pii/S0045782597002612
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi.org/10.1074/jbc.M313474200
+  title: Similarity of Binding Sites of Human Matrix Metalloproteinases*[boxs]
+  authors:
+  - V Lukacova
+  - Y Zhang
+  - M Mackov
+  - P Baricic
+  - S Raha
+  - JA Calvo
+  - S Balaz
+  publisher: Journal of Biological Chemistry 279 (14), 14194-14200, 2004
+  date: '2004-04-02'
+  link: https://www.jbc.org/article/S0021-9258(19)64091-3/fulltext
+  image: "images/research/citation3.jpg"
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi.org/10.1107/S0021889807011053
+  title: Parallel implementation of AutoDock
+  authors:
+  - P Khodade
+  - R Prabhu
+  - N Chandra
+  - S Raha
+  - R Govindarajan
+  publisher: Journal of Applied Crystallography 40 (3), 598-599, 2007
+  date: '2007-06-01'
+  link: https://journals.iucr.org/paper?kk5006
+  image: "images/research/citation4.gif"
+  plugin: orcid.py
+  file: orcid.yaml
+
+- id: doi.org/10.2514/1.G000561
+  title: Capturability of augmented pure proportional navigation guidance against time-varying
+    target maneuvers
+  authors:
+  - S Ghosh
+  - D Ghose
+  - S Raha
+  publisher: Journal of Guidance, Control, and Dynamics 37 (5), 1446-1461, 2014
+  date: '2014-09-01'
+  link: https://arc.aiaa.org/doi/abs/10.2514/1.G000561
+  image: "images/research/citation5.png"
+  plugin: orcid.py
+  file: orcid.yaml
