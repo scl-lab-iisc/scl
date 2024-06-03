@@ -17,7 +17,7 @@ Our research focuses on the computational Study of Stochastic Differential-Algeb
 
 {%
   include button.html
-  link="research"
+  link="https://scholar.google.com/citations?user=dlLdZhUAAAAJ"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
