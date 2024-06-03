@@ -12,12 +12,11 @@
   subtitle: Research Work
   group: featured
   image: images/project/Project2.jpg
-  description: Preserving maximum principles on pressure for nonlinear Darcy flow through anisotropic porous media using PINNS (physics informed neural networks) ensures the model adheres to physical laws and realistic pressure constraints in complex flow simulations.
+  description: Preserving maximum principles on pressure for nonlinear Darcy flow through anisotropic porous media using PINNS (physics informed neural networks) ensures the model adheres to physical laws and realistic pressure constraints in simulations having complex flow.
   tags:
     - resource
     - Flow
     - networks
-    - Darcy
     - PINNs
 
 - title: REACTION-DIFFUSION(RD) NETWORKS FOR LEARNING AND PREDICTING DYNAMICAL SYSTEMS
