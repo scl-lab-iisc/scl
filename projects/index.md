@@ -21,3 +21,7 @@ Our collaborative approach fosters synergy among team members, ensuring that eac
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
+
+## More
+
+{% include list.html component="card" data="projects" filters="group: " style="small" %}
