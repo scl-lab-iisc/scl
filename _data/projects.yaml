@@ -12,7 +12,7 @@
   subtitle: Research Work
   group: featured
   image: images/project/Project2.jpg
-  description: Preserving maximum principles on pressure for nonlinear Darcy flow through anisotropic porous media using PINNS (physics informed neural networks).
+  description: Preserving maximum principles on pressure for nonlinear Darcy flow through anisotropic porous media using PINNS (physics informed neural networks) ensures the model adheres to physical laws and realistic pressure constraints in complex flow simulations.
   tags:
     - resource
     - Flow
