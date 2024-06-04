@@ -19,16 +19,6 @@ Our cutting-edge research in these areas not only advances theoretical understan
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="A combination of docking, QM/MM methods, and MD simulation for binding affinity estimation of metalloprotein ligands" style="rich" %}
+Click this link to browse through our [research publications](https://scholar.google.com/citations?user=dlLdZhUAAAAJ 'Research publications on Google Scholar').
 
 {% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
