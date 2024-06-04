@@ -38,3 +38,20 @@ We delve into various team-building activities to foster a strong sense of camar
 
 {% include grid.html style="square" content=content %}
 
+{% include section.html dark=true %}
+# {% include icon.html icon="fa-solid fa-book-open-reader" %}Alumni
+
+{% capture col1 %}
+# {% include icon.html icon="fa-solid fa-graduation-cap" %}PhD Students
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% capture col2 %}
+# {% include icon.html icon="fa-solid fa-user-graduate" %}PhD Students
+Lorem ipsum dolor sit amet  
+consectetur adipiscing elit  
+sed do eiusmod tempor
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
