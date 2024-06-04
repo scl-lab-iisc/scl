@@ -38,4 +38,3 @@ We delve into various team-building activities to foster a strong sense of camar
 
 {% include grid.html style="square" content=content %}
 
-{% include carousel.html %}
