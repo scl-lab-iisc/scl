@@ -13,4 +13,4 @@ Hello! I am Saikat Mondal, M.Tech(Coursework 2022-24) student in the Department 
 My primary research topics is stochastic processes on IR drop estimation using reaction diffusion modelling. With a background in maths, ml and graph theory, 
 I have developed a algorithm based on stochastic properties of heat equation.
 
-Currently, I am working with BEL India as a member of research staff, where we are working on mathematical crypto algorithms for secure Indian defence communication.
+Currently, I am working with BEL India as a member of research staff, where we are working on mathematical crypto algorithms for secure Indian defence communication
