@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We are a team of dedicated and hardworking individuals, united by our passion for innovation and fueled by collaboration. Together, we form a vibrant community committed to advancing the frontiers of knowledge in the dynamic field of scientific computation. Scroll down to know more about us!!!
+We are a team of dedicated and hardworking individuals, united by our passion for innovation and fueled by collaboration. Together, we form a vibrant community committed to advancing the frontiers of knowledge in the dynamic field of scientific computation. Scroll down to know more about us!!
 
 {% include section.html %}
 
