@@ -8,6 +8,7 @@ aliases:
   - Raha
 links:
   home-page: https://cds.iisc.ac.in/faculty/raha/
+  email: sraha@iisc.acin
   linkedin: soumyendu-raha-800290276
 ---
 

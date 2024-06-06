@@ -4,6 +4,7 @@ image: images/team/jbatra.jpg
 description: M-Tech Student
 role: undergrad
 links:
+  home-page: https://sites.google.com/view/jitinb
   email: jitinbatra@iisc.acin
   linkedin: jitin-batra-44674059
 ---
