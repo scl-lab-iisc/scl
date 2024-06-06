@@ -8,4 +8,4 @@ links:
   linkedin: mustafa-namliwala-188b22140
 ---
 
-Hello! I am Mustafa Namliwala.
+Hello! I am Mustafa Namliwala, M-Tech Student.

@@ -1,10 +1,10 @@
 ---
 name: Nischal Karthik
-image: images/photo.jpg
+image: images/team/nkarthik.png
 role: phd
 group: alum
 links:
   github: john-doe
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hello! I am Nischal Karthik, a Phd Student.

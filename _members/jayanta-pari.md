@@ -8,4 +8,4 @@ links:
   linkedin: jayanta-pari-81a5a81aa
 ---
 
-Hello, I am Jayanta Pari, a Phd Student.
+Hello! I am Jayanta Pari, a Phd Student.
