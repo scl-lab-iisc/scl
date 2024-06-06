@@ -1,1 +1,1 @@
-Sitemap: https://scl-lab-iisc.github.io/scl/sitemap.xml
+Sitemap: https://scl-lab-iisc.github.io/sitemap.xml
